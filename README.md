@@ -55,11 +55,11 @@ Run rspec in your terminal to test! For now, only models can be tested.
 
 ## Authors
 
-* **Eloïse Emptoz* - [ailu88](https://github.com/ailu88)
-* **Lionel Debauge* - [lebonvieuxlion](https://github.com/lebonvieuxlion)
-* **Gauthier Sayarath* - [Gauthier_THP](https://github.com/lebonvieuxlion)
-* **Mathieu Pierre* - [bonzouti](https//github.com/bonzouti) 
-* **Bérénice Bourgon* - [berenice-b](https//github.com/berenice-b) 
+* *Eloïse Emptoz* - [ailu88](https://github.com/ailu88)
+* *Lionel Debauge* - [lebonvieuxlion](https://github.com/lebonvieuxlion)
+* *Gauthier Sayarath* - [Gauthier_THP](https://github.com/lebonvieuxlion)
+* *Mathieu Pierre* - [bonzouti](https//github.com/bonzouti) 
+* *Bérénice Bourgon* - [berenice-b](https//github.com/berenice-b) 
 
 ## Acknowledgments
 
